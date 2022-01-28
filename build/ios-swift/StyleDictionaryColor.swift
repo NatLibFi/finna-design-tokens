@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Jan 2022 10:55:44 GMT
+// Generated on Fri, 28 Jan 2022 11:25:15 GMT
 
 
 import UIKit
@@ -20,6 +20,7 @@ public enum StyleDictionaryColor {
     public static let gray700 = UIColor(red: 0.286, green: 0.314, blue: 0.341, alpha: 1)
     public static let gray800 = UIColor(red: 0.204, green: 0.227, blue: 0.251, alpha: 1)
     public static let gray900 = UIColor(red: 0.129, green: 0.145, blue: 0.161, alpha: 1)
+    public static let grayBlack = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let grayWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let headingTitleColor = UIColor(red: 0.082, green: 0.145, blue: 0.212, alpha: 1)
     public static let linkColor = UIColor(red: 0.000, green: 0.486, blue: 0.565, alpha: 1)
@@ -28,6 +29,7 @@ public enum StyleDictionaryColor {
     public static let statusColorDanger = UIColor(red: 0.863, green: 0.208, blue: 0.271, alpha: 1)
     public static let statusColorInfo = UIColor(red: 0.090, green: 0.635, blue: 0.722, alpha: 1)
     public static let statusColorSuccess = UIColor(red: 0.157, green: 0.655, blue: 0.271, alpha: 1)
+    public static let statusColorWarning = UIColor(red: 1.000, green: 0.757, blue: 0.027, alpha: 1)
     public static let strokeInput = UIColor(red: 0.808, green: 0.831, blue: 0.855, alpha: 1)
     public static let strokeLight = UIColor(red: 0.871, green: 0.886, blue: 0.902, alpha: 1)
 }
