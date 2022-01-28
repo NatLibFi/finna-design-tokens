@@ -4,20 +4,32 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Dec 2021 18:06:29 GMT
+// Generated on Fri, 28 Jan 2022 10:55:43 GMT
 
 
 #import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSInteger, StyleDictionaryColorName) {
-ColorColorsMultipleFills0,
-ColorColorsMultipleFills1,
-ColorColorsSingleBlue,
-ColorColorsRefBlue,
-ColorColorsSpecialCharacters,
-ColorColorsSpecialCharactersNderung,
-ColorLightBackground,
-ColorDarkBackground
+ColorSecondaryColor,
+ColorPrimaryColor,
+ColorStatusColorSuccess,
+ColorStatusColorDanger,
+ColorStatusColorInfo,
+ColorGrayWhite,
+ColorStrokeLight,
+ColorStrokeInput,
+ColorHeadingTitleColor,
+ColorBodyTextBaseColor,
+ColorGray100,
+ColorGray200,
+ColorGray300,
+ColorGray400,
+ColorGray500,
+ColorGray600,
+ColorGray700,
+ColorGray800,
+ColorGray900,
+ColorLinkColor
 };
 
 @interface StyleDictionaryColor : NSObject
