@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 28 Jan 2022 10:55:43 GMT
+// Generated on Fri, 28 Jan 2022 11:25:15 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -14,8 +14,10 @@ ColorSecondaryColor,
 ColorPrimaryColor,
 ColorStatusColorSuccess,
 ColorStatusColorDanger,
+ColorStatusColorWarning,
 ColorStatusColorInfo,
 ColorGrayWhite,
+ColorGrayBlack,
 ColorStrokeLight,
 ColorStrokeInput,
 ColorHeadingTitleColor,
