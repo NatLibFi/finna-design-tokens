@@ -3,6 +3,7 @@
   "platforms": {
     "scss": {
       "transformGroup": "custom/scss",
+      "prefix": "finna",
       "buildPath": "build/scss/",
       "files": [{
         "destination": "_variables.scss",
@@ -11,6 +12,7 @@
     },
     "less": {
       "transformGroup": "custom/less",
+      "prefix": "finna",
       "buildPath": "build/less/",
       "files": [{
         "destination": "_variables.less",
@@ -19,6 +21,7 @@
     },
     "css": {
       "transformGroup": "custom/css",
+      "prefix": "finna",
       "buildPath": "build/css/",
       "files": [{
         "destination": "_variables.css",
